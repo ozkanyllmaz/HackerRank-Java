@@ -1,52 +1,48 @@
 # HackerRank-Java
 
-## HackerRank-Java Soru Çözümleri
+## HackerRank-Java Problem Solutions
 
-Bu repository, çeşitli HackerRank problemlerine ait Java dilinde çözümleri içerir. Problemler, algoritma ve veri yapıları konularında çeşitli zorluk seviyelerine sahip olup, her biri çözüm kodları ve açıklamalarıyla birlikte sunulmuştur.
+This repository contains solutions to various HackerRank problems in Java. The problems cover various levels of difficulty in algorithms and data structures, each provided with solution code and explanations.
 
-### İçerik
+### Content
 
-Bu repository, aşağıdaki konuları kapsayan HackerRank problem çözümlerini içerir:
+This repository includes HackerRank problem solutions covering the following topics:
 
-- **Algoritmalar**: Sıralama, arama, diziler, vs.
-- **Veri Yapıları**: Bağlantılı listeler, yığınlar, kuyruklar, vs.
-- **Matematik**: Sayı teorisi, kombinatorik problemler, vs.
+- **Algorithms**: Sorting, searching, arrays, etc.
+- **Data Structures**: Linked lists, stacks, queues, etc.
+- **Mathematics**: Number theory, combinatorial problems, etc.
 
-### Kurulum
+### Setup
 
-Herhangi bir özel kurulum gereksinimi yoktur. Çözümler Java dilinde yazılmıştır ve Java Runtime Environment (JRE) ile çalıştırılabilir.
+No special setup is required. The solutions are written in Java and can be run with the Java Runtime Environment (JRE).
 
-1. Bu repository'yi klonlayın:
+1. Clone this repository:
     ```bash
     git clone https://github.com/ozkanyllmaz/HackerRank-Java.git
     ```
 
-2. İlgili problem dosyasını derlemek için:
+2. To compile the specific problem file:
     ```bash
-    cd <problem_dosyası_adı>
-    javac <çözüm_dosyası_adı>.java
+    cd <problem_file_name>
+    javac <solution_file_name>.java
     ```
 
-3. Derlenmiş dosyayı çalıştırmak için:
+3. To run the compiled file:
     ```bash
-    java <çözüm_dosyası_adı>
+    java <solution_file_name>
     ```
 
-### Kullanım
+### Usage
 
-Her bir problem, ilgili dosya adı ile belirtilmiştir. Problem çözümüne ulaşmak için:
+Each problem is specified by the corresponding file name. To access a problem solution:
 
-1. İlgili dizine gidin:
+1. Navigate to the relevant directory:
     ```bash
-    cd <problem_dosyası_adı>
+    cd <problem_file_name>
     ```
 
-2. Çözüm dosyasını derleyin ve çalıştırın:
+2. Compile and run the solution file:
     ```bash
-    javac <çözüm_dosyası_adı>.java
-    java <çözüm_dosyası_adı>
+    javac <solution_file_name>.java
+    java <solution_file_name>
     ```
-
-
-
-
