@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/JavaMap.iml" filepath="$PROJECT_DIR$/JavaMap.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/Array1D/Array1D.iml" filepath="$PROJECT_DIR$/Array1D/Array1D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Array2D/Array2D.iml" filepath="$PROJECT_DIR$/Array2D/Array2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Hackerrank.iml" filepath="$PROJECT_DIR$/.idea/Hackerrank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaBigDecimal/JavaBigDecimal.iml" filepath="$PROJECT_DIR$/JavaBigDecimal/JavaBigDecimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RegexUsername/RegexUsername.iml" filepath="$PROJECT_DIR$/RegexUsername/RegexUsername.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StringBirlestirme/StringBirlestirme.iml" filepath="$PROJECT_DIR$/StringBirlestirme/StringBirlestirme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubArray/SubArray.iml" filepath="$PROJECT_DIR$/SubArray/SubArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SubString2/SubString2.iml" filepath="$PROJECT_DIR$/SubString2/SubString2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/anagram/anagram.iml" filepath="$PROJECT_DIR$/anagram/anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bigInteger/bigInteger.iml" filepath="$PROJECT_DIR$/bigInteger/bigInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/calendar/calendar.iml" filepath="$PROJECT_DIR$/calendar/calendar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaRegex/javaRegex.iml" filepath="$PROJECT_DIR$/javaRegex/javaRegex.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaRegex2/javaRegex2.iml" filepath="$PROJECT_DIR$/javaRegex2/javaRegex2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaRegexTest/javaRegexTest.iml" filepath="$PROJECT_DIR$/javaRegexTest/javaRegexTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/palindromeString/palindromeString.iml" filepath="$PROJECT_DIR$/palindromeString/palindromeString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paraBirimleri/paraBirimleri.iml" filepath="$PROJECT_DIR$/paraBirimleri/paraBirimleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patternSyntaxChecker/patternSyntaxChecker.iml" filepath="$PROJECT_DIR$/patternSyntaxChecker/patternSyntaxChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/primeNumber/primeNumber.iml" filepath="$PROJECT_DIR$/primeNumber/primeNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/split/split.iml" filepath="$PROJECT_DIR$/split/split.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subString/subString.iml" filepath="$PROJECT_DIR$/subString/subString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tagContentExtractor/tagContentExtractor.iml" filepath="$PROJECT_DIR$/tagContentExtractor/tagContentExtractor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toString/toString.iml" filepath="$PROJECT_DIR$/toString/toString.iml" />
+    </modules>
+  </component>
+</project>
