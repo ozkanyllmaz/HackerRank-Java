@@ -1,6 +1,5 @@
 # HackerRank-Java
 
- HEAD
 ## HackerRank-Java Soru Çözümleri
 
 Bu repository, çeşitli HackerRank problemlerine ait Java dilinde çözümleri içerir. Problemler, algoritma ve veri yapıları konularında çeşitli zorluk seviyelerine sahip olup, her biri çözüm kodları ve açıklamalarıyla birlikte sunulmuştur.
