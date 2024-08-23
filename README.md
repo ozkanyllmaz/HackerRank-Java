@@ -17,30 +17,10 @@ Bu repository, aşağıdaki konuları kapsayan HackerRank problem çözümlerini
 Herhangi bir özel kurulum gereksinimi yoktur. Çözümler Java dilinde yazılmıştır ve Java Runtime Environment (JRE) ile çalıştırılabilir.
 
 1. Bu repository'yi klonlayın:
-=======
-## HackerRank-Java Problem Solutions
-
-This repository contains solutions to various HackerRank problems in Java. The problems cover various levels of difficulty in algorithms and data structures, each provided with solution code and explanations.
-
-### Content
-
-This repository includes HackerRank problem solutions covering the following topics:
-
-- **Algorithms**: Sorting, searching, arrays, etc.
-- **Data Structures**: Linked lists, stacks, queues, etc.
-- **Mathematics**: Number theory, combinatorial problems, etc.
-
-### Setup
-
-No special setup is required. The solutions are written in Java and can be run with the Java Runtime Environment (JRE).
-
-1. Clone this repository:
->>>>>>> 5af5ec59056f545c7710a197ee2e23c20f82986f
     ```bash
     git clone https://github.com/ozkanyllmaz/HackerRank-Java.git
     ```
 
- HEAD
 2. İlgili problem dosyasını derlemek için:
     ```bash
     cd <problem_dosyası_adı>
@@ -67,10 +47,29 @@ Her bir problem, ilgili dosya adı ile belirtilmiştir. Problem çözümüne ula
     java <çözüm_dosyası_adı>
     ```
 
+---
 
+## HackerRank-Java Problem Solutions
 
+This repository contains solutions to various HackerRank problems in Java. The problems cover various levels of difficulty in algorithms and data structures, each provided with solution code and explanations.
 
-=======
+### Content
+
+This repository includes HackerRank problem solutions covering the following topics:
+
+- **Algorithms**: Sorting, searching, arrays, etc.
+- **Data Structures**: Linked lists, stacks, queues, etc.
+- **Mathematics**: Number theory, combinatorial problems, etc.
+
+### Setup
+
+No special setup is required. The solutions are written in Java and can be run with the Java Runtime Environment (JRE).
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/ozkanyllmaz/HackerRank-Java.git
+    ```
+
 2. To compile the specific problem file:
     ```bash
     cd <problem_file_name>
@@ -96,4 +95,3 @@ Each problem is specified by the corresponding file name. To access a problem so
     javac <solution_file_name>.java
     java <solution_file_name>
     ```
->>>>>>> 5af5ec59056f545c7710a197ee2e23c20f82986f
