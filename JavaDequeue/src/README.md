@@ -41,6 +41,3 @@ In the sample input, there are four subarrays of size **3**:
 
 The maximum number of unique numbers among all contiguous subarrays of size **3** is **3**.
 
-## Solution
-
-You can find the solution code in this repository: [Java Dequeue Solution](link-to-your-github-repo)
